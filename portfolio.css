@@ -1,0 +1,164 @@
+.head {
+  width: 1440px;
+  height: 72px;
+  padding: 16px 143px 16px 143px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  
+}
+.logo {
+  width: Hug (100px)px;
+  height: Hug (40px)px;
+  top: 16px;
+  left: 143px;
+  padding: 10px 12px 10px 12px;
+  gap: 0px;
+  opacity: 0px;
+  color: #6070FF;
+}
+.logo p {
+  width: 76px;
+  height: 20px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  
+  ;
+
+}
+
+
+.nav{
+  width: Hug (258px)px;
+  height: Hug (40px)px;
+  top: 16px;
+  
+  margin-left: 700px;
+  gap: 8px;
+  opacity: 0px;
+  display: flex;
+
+  
+  
+  
+  
+}
+.link {
+  width: Hug (86px)px;
+  height: Hug (40px)px;
+  padding: 10px 12px 10px 12px;
+  gap: 10px;
+  opacity: 0px;
+  
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+
+
+}
+.link a{
+  width: 62px;
+  height: 20px;
+  gap: 0px;
+  opacity: 0px;
+ 
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 20px;
+  text-align: center;
+  color:  #344563;
+
+}
+
+.main{
+  width: 1440px;
+  height: 846px;
+  top: 71px;
+  padding: 28px 26px 289px 260px;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+
+.context{
+  width: Hug (920px)px;
+  height: Hug (268px)px;
+  top: 289px;
+  left: 260px;
+  gap: 12px;
+  opacity: 0px;
+  
+  
+}
+
+.frame1{
+  width: 920px;
+  height: 122px;
+  gap: 0px;
+  opacity: 0px;
+
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 0.3700000047683716px;
+  text-align: left;
+  color: #091E42;
+
+
+
+}
+
+.frame2{
+  width: 920px;
+  height: 98px;
+  gap: 0px;
+  opacity: 0px;
+
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  color:  #344563;
+
+
+
+}
+
+.comment{
+  width: Hug (117px)px;
+  height: Hug (24px)px;
+  gap: 16px;
+  opacity: 0px;
+
+}
+
+.image{
+  width: 170.17px;
+  height: 20px;
+  top: 642px;
+  left: 260px;
+  gap: 0px;
+  opacity: 0px;
+  color: #505F79;
+  display: flex;
+
+}
+
+.image a img{
+  width: 19.99px;
+  height: 19.96px;
+  top: 642px;
+  left: 260px;
+  gap: 0px;
+  opacity: 0px;
+  color: #505F79;
+
+
+}
