@@ -203,7 +203,7 @@
 
 }
 
-.frame1{
+.frame3{
   width: 496px;
   height: 46px;
   gap: 0px;
@@ -215,7 +215,7 @@
 
 }
 
-.frame1 p {
+.frame3 p {
   font-family: Poppins;
   font-size: 40px;
   font-weight: 700;
@@ -225,7 +225,7 @@
 
 }
 
-.frame2 {
+.frame4 {
   width: Hug (297px)px;
   height: Hug (40px)px;
   gap: 12px;
@@ -238,7 +238,7 @@
 
 
 
-.frame2 p {
+.frame4 p {
   margin: 1;
 }
 
