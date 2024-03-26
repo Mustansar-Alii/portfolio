@@ -159,6 +159,168 @@
   gap: 0px;
   opacity: 0px;
   color: #505F79;
+}
+.container {
+  display: flex;
+  width: 1156px;
+  height: 496px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.left-div {
+  width: Hug (544px)px;
+  height: Hug (445px)px;
+  top: 24px;
+  left: 590px;
+  padding: 24px 0px 0px 0px;
+  gap: 24px;
+  opacity: 0px;
+  
+  
+  
+}
+
+.right-div {
+ 
+  width: Hug (544px)px;
+  height: Hug (445px)px;
+  top: 24px;
+  left: 590px;
+  padding: 24px 0px 0px 0px;
+  gap: 24px;
+  opacity: 0px;
+
+}
+
+.title {
+  width: Hug (496px)px;
+  height: Hug (98px)px;
+  gap: 12px;
+  opacity: 0px;
+  
+
+}
+
+.frame1{
+  width: 496px;
+  height: 46px;
+  gap: 0px;
+  opacity: 0px;
+
+  
 
 
+
+}
+
+.frame1 p {
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  text-align: left;
+  color: #091E42;
+
+}
+
+.frame2 {
+  width: Hug (297px)px;
+  height: Hug (40px)px;
+  gap: 12px;
+  opacity: 0px;
+  display: flex;
+  justify-content:left;
+  
+
+}
+
+
+
+.frame2 p {
+  margin: 1;
+}
+
+.frame2 p:not(:last-child)::after {
+  content: "•";
+  
+}
+
+.text{
+  width: 496px;
+  height: 70px;
+  gap: 0px;
+  opacity: 0px;
+
+}
+
+.text p {
+  
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+
+  color: #344563;
+  ;
+
+}
+
+.tags {
+  list-style-type: none; /* Remove default list styles */
+  padding: 0; /* Remove default padding */
+  width: Hug (203px)px;
+  height: Hug (24px)px;
+  gap: 8px;
+  opacity: 0px;
+
+  
+  
+  
+}
+
+.tags li {
+  display: inline; /* Display list items horizontally */
+  margin-right: 10px; /* Add some space between list items */
+  
+  
+  
+}
+
+.tags a {
+  text-decoration: none; /* Remove underline from links */
+  color: black; /* Set link color */
+  background-color: antiquewhite; /* Set background color */
+  padding: 5px 10px; /* Add padding around the content */
+  border-radius: 10px; /* Curve the corners */
+  
+}
+
+
+.button{
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: transparent;
+  color: blue;
+  text-decoration: none;
+  border-color: blue;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+
+
+.image-div img {
+  width: 100%;
+  height: auto;
+}
+
+.text-div {
+  margin-bottom: 10px;
+  margin-left: 40px;
+  padding: 10px;
+  
 }
